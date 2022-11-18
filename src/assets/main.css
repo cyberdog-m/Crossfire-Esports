@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&family=Source+Sans+Pro:wght@400;600;700&family=Exo&display=swap');
+
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+
+body {
+    background: linear-gradient(-45deg, #c36cf7, #9741c9, #7a42ee);
+	background-attachment: fixed;
+	animation: gradient 4s ease infinite alternate;
+	background-size: 400% 400%;
+  }
+
+  @keyframes gradient {
+    0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+  }
+
+.font-august {
+	font-family: August, Helvetica, sans-serif;
+	}
+
+.font-michroma {
+	font-family: Michroma, sans-serif;
+	}
+
+.font-source {
+	font-family: Source Sans Pro, sans-serif;
+	}
+
+.font-exo {
+	font-family: Exo, sans-serif;
+	}
