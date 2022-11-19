@@ -1,13 +1,13 @@
 <script setup></script>
 
 <template>
-  <div class="fixed top-0 z-50 mx-auto w-full bg-gray-50/10 backdrop-blur">
-    <nav class="mx-auto flex h-12 max-w-5xl items-center px-4 shadow-sm">
+  <div class="fixed top-0 z-50 w-full mx-auto bg-gray-50/10 backdrop-blur">
+    <nav class="flex items-center h-12 max-w-5xl px-4 mx-auto shadow-sm">
       <router-link to="/">
         <img
           src="../assets/element-logo-white.png"
           alt="element association logo"
-          class="h-10"
+          class="h-8"
         />
       </router-link>
     </nav>
