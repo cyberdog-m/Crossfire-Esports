@@ -4,7 +4,7 @@
 
 
 body {
-    background: linear-gradient(-45deg, #c36cf7, #9741c9, #7a42ee);
+    background: linear-gradient(-45deg, #cb7cf9, #9d4dcb, #7f49ed);
 	background-attachment: fixed;
 	animation: gradient 4s ease infinite alternate;
 	background-size: 400% 400%;
@@ -21,10 +21,6 @@ body {
 		background-position: 0% 50%;
 	}
   }
-
-.font-august {
-	font-family: August, Helvetica, sans-serif;
-	}
 
 .font-michroma {
 	font-family: Michroma, sans-serif;
