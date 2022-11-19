@@ -5,44 +5,49 @@ const games = [
     id: 1,
     name: "Valorant",
     regFee: "23",
-    date: "25/11/2022",
-    imageUrl: "src/assets/game-card/valorent.jpg",
+    date: "5/11/2022",
+    imageUrl: "valorent.jpg",
     route: "/valorant",
   },
   {
     id: 2,
     name: "Fifa PC",
-    regFee: "45",
-    date: "25/11/2022",
-    imageUrl: "src/assets/game-card/fifa-pc.jpg",
+    regFee: "",
+    date: "",
+    imageUrl: "fifa-pc.jpg",
+    route: "/fifapc"
   },
   {
     id: 3,
     name: "E Football",
-    regFee: "45",
-    date: "25/11/2022",
-    imageUrl: "src/assets/game-card/e-football.jpg",
+    regFee: "",
+    date: "",
+    imageUrl: "e-football.jpg",
+    route: "/efootball"
   },
   {
     id: 4,
     name: "BGMI",
-    regFee: "45",
-    date: "25/11/2022",
-    imageUrl: "src/assets/game-card/pubg.jpg",
+    regFee: "",
+    date: "",
+    imageUrl: "pubg.jpg",
+    route: "/bgmi"
   },
   {
     id: 5,
     name: "Forza Horizon",
-    regFee: "45",
-    date: "25/11/2022",
-    imageUrl: "src/assets/game-card/forza.jpg",
+    regFee: "",
+    date: "",
+    imageUrl: "forza.jpg",
+    route: "/forza"
   },
   {
     id: 6,
     name: "Free Fire",
-    regFee: "45",
-    date: "25/11/2022",
-    imageUrl: "src/assets/game-card/free-fire.jpg",
+    regFee: "",
+    date: "",
+    imageUrl: "free-fire.jpg",
+    route: "/freefire"
   },
 ];
 games.sort((a, b) => a.id - b.id);
@@ -58,7 +63,7 @@ games.sort((a, b) => a.id - b.id);
       <img
         src="../assets/crossfire-logo-white.png"
         alt="Crossfire logo"
-        class="w-[22rem] sm:w-[30rem]"
+        class="w-[20rem] sm:w-[30rem]"
       />
     </div>
     <p class="mx-auto mt-5 tracking-wide font-michroma text-gray-50/75">
