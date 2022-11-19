@@ -14,24 +14,26 @@
       <h2 class="text-lg font-bold">Description</h2>
       <ul class="mt-2">
         <li class="flex items-center">
-          <span class="mr-1 material-icons">east</span>Placeholder text
+          <span class="mt-1 mr-1 material-icons">east</span>The game will be 8 min, 1v1 match
         </li>
         <li class="flex items-center">
-          <span class="mr-1 material-icons">east</span> ASkjkkkjkkkkk
+          <span class="mt-1 mr-1 material-icons">east</span>Players should use same Konami Id throughout the entire tournament
+        </li>
+        <li class="flex items-center mt-1">
+          <span class="mr-1 material-icons">east</span> Entry limited to  First come first serve basis
         </li>
       </ul>
 
       <h2 class="mt-5 text-lg font-bold">Registration Fee</h2>
-      <p><span class="font-bold">₹50 </span>Per team</p>
+      <p><span class="font-bold">₹50 </span>Per member</p>
 
       <h2 class="mt-5 text-xl font-bold">Prize</h2>
-      <p>1st Prize: <span class="font-bold">₹50 </span></p>
-      <p>2nd Prize: <span class="font-bold">₹10 </span></p>
+      <p>Winner: <span class="font-bold">₹999</span></p>
       <div class="flex justify-center mt-10">
         <div
           class="inline-flex items-center justify-center h-12 text-xl text-gray-200 bg-purple-800 rounded-md w-52"
         >
-          Register
+          Coming Soon
         </div>
       </div>
     </div>

@@ -15,25 +15,28 @@
           <span class="mr-1 material-icons">priority_high</span>Exclusive for
           Malabar CET Students
         </li>
-        <li class="flex items-center">
-          <span class="mr-1 material-icons">east</span>Placeholder text
+        <li class="flex items-center mt-1">
+          <span class="mr-1 material-icons">east</span>Players will have to drive in a fixed circuit
         </li>
-        <li class="flex items-center">
-          <span class="mr-1 material-icons">east</span> ASkjkkkjkkkkk
+        <li class="flex items-center mt-1">
+          <span class="mr-1 material-icons">east</span>Winner is selected based on the shortest Lap Time
+        </li>
+        <li class="flex items-center mt-1">
+          <span class="mr-1 material-icons">east</span>Game will be played using a steering wheel
         </li>
       </ul>
 
       <h2 class="mt-5 text-lg font-bold">Registration Fee</h2>
-      <p><span class="font-bold">₹50 </span>Per member</p>
+      <p><span class="font-bold">₹20 </span>Per member</p>
 
       <h2 class="mt-5 text-xl font-bold">Prize</h2>
-      <p>1st Prize: <span class="font-bold">₹50 </span></p>
-      <p>2nd Prize: <span class="font-bold">₹10 </span></p>
+      <p>Winner: <span class="font-bold">₹100</span></p>
+      <p>Runner Up: <span class="font-bold">Surprise Gift </span></p>
       <div class="flex justify-center mt-10">
         <div
           class="inline-flex items-center justify-center h-12 text-xl text-gray-200 bg-purple-800 rounded-md w-52"
         >
-          Register
+          Coming Soon
         </div>
       </div>
     </div>

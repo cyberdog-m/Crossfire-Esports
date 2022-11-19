@@ -4,8 +4,8 @@ const games = [
   {
     id: 1,
     name: "Valorant",
-    regFee: "23",
-    date: "5/11/2022",
+    regFee: "",
+    date: "",
     imageUrl: "valorent.jpg",
     route: "/valorant",
   },
@@ -55,10 +55,6 @@ games.sort((a, b) => a.id - b.id);
 
 <template>
   <div class="flex flex-col pt-24">
-    <!-- <h1 class="mx-auto text-white md:hidden text-9xl font-august">ESPORTS</h1>
-    <h2 class="mx-auto mt-5 text-white md:hidden text-8xl font-august">TOURNAMENT</h2> -->
-    <!-- Show only on large screens -->
-    <!-- <h1 class="hidden mx-auto text-white md:block text-9xl font-august">ESPORTS TOURNAMENT</h1> -->
     <div class="flex justify-center">
       <img
         src="../assets/crossfire-logo-white.png"
@@ -66,8 +62,8 @@ games.sort((a, b) => a.id - b.id);
         class="w-[20rem] sm:w-[30rem]"
       />
     </div>
-    <p class="mx-auto mt-5 tracking-wide font-michroma text-gray-50/75">
-      Tagline goes here
+    <p class="mx-auto mt-5 tracking-wide text-center font-michroma text-gray-50/75">
+      Your Battle Begins Here
     </p>
   </div>
   <!-- Divider Line -->
