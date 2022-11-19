@@ -45,6 +45,7 @@ const games = [
     imageUrl: "src/assets/game-card/free-fire.jpg",
   },
 ];
+games.sort((a, b) => a.id - b.id);
 </script>
 
 <template>
@@ -60,19 +61,19 @@ const games = [
         class="w-[22rem] sm:w-[30rem]"
       />
     </div>
-    <p class="font-michroma mx-auto mt-5 tracking-wide text-gray-50/75">
+    <p class="mx-auto mt-5 tracking-wide font-michroma text-gray-50/75">
       Tagline goes here
     </p>
   </div>
   <!-- Divider Line -->
-  <div class="mx-auto mt-5 max-w-4xl px-10">
-    <div class="mx-auto h-1 rounded-sm bg-gray-50/30 backdrop-blur-md"></div>
+  <div class="max-w-4xl px-10 mx-auto mt-5">
+    <div class="h-1 mx-auto rounded-sm bg-gray-50/30 backdrop-blur-md"></div>
   </div>
-  <h2 class="font-michroma mt-5 text-center text-3xl tracking-wider text-white">
+  <h2 class="mt-5 text-3xl tracking-wider text-center text-white font-michroma">
     Games
   </h2>
   <div
-    class="mx-auto mt-5 grid max-w-5xl grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-3"
+    class="grid max-w-5xl grid-cols-1 gap-4 mx-auto mt-5 md:grid-cols-2 xl:grid-cols-3"
   >
     <GameCard v-for="game in games" :key="game.id" :gameDetail="game" />
   </div>
