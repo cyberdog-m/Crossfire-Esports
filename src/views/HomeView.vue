@@ -4,7 +4,7 @@ const games = [
   {
     id: 1,
     name: "Valorant",
-    regFee: "",
+    regFee: "250",
     date: "",
     imageUrl: "valorent.jpg",
     route: "/valorant",
@@ -20,7 +20,7 @@ const games = [
   {
     id: 3,
     name: "E Football",
-    regFee: "",
+    regFee: "50",
     date: "",
     imageUrl: "e-football.jpg",
     route: "/efootball"
@@ -28,7 +28,7 @@ const games = [
   {
     id: 4,
     name: "BGMI",
-    regFee: "",
+    regFee: "200",
     date: "",
     imageUrl: "pubg.jpg",
     route: "/bgmi"
@@ -36,7 +36,7 @@ const games = [
   {
     id: 5,
     name: "Forza Horizon",
-    regFee: "",
+    regFee: "20",
     date: "",
     imageUrl: "forza.jpg",
     route: "/forza"
@@ -44,7 +44,7 @@ const games = [
   {
     id: 6,
     name: "Free Fire",
-    regFee: "",
+    regFee: "100",
     date: "",
     imageUrl: "free-fire.jpg",
     route: "/freefire"

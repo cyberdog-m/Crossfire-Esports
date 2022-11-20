@@ -29,15 +29,20 @@
       <h2 class="mt-5 text-lg font-bold">Registration Fee</h2>
       <p><span class="font-bold">₹20 </span>Per member</p>
 
+      <h2 class="mt-5 text-lg font-bold">Tournament Start Date</h2>
+      <p>Tuesday,<span class="font-bold"> 22 November </span>2022</p>
+
       <h2 class="mt-5 text-xl font-bold">Prize</h2>
       <p>Winner: <span class="font-bold">₹100</span></p>
       <p>Runner Up: <span class="font-bold">Surprise Gift </span></p>
       <div class="flex justify-center mt-10">
-        <div
-          class="inline-flex items-center justify-center h-12 text-xl text-gray-200 bg-purple-800 rounded-md w-52"
-        >
-          Coming Soon
-        </div>
+        <a href="https://forms.gle/WiMpqo11G7PT3LXN7">
+          <div
+            class="inline-flex items-center justify-center h-12 text-xl text-gray-200 bg-purple-800 rounded-md w-52"
+          >
+            Register Now
+          </div>
+        </a>
       </div>
     </div>
   </div>
