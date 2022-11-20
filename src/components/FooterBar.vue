@@ -1,12 +1,12 @@
 <template>
-  <div class="absolute w-full px-5 mx-auto mt-10 bg-purple-900/80">
-    <div class="flex items-center justify-between">
-      <div class="flex flex-col my-4 font-exo text-white/50">
+  <footer class="w-full h-40 px-5 mt-10 bg-purple-900/80">
+    <div class="flex items-center justify-between max-w-5xl mx-auto">
+      <div class="flex flex-col my-4 md:flex-row font-exo text-white/50">
         <div>
           <h5 class="font-bold text-white/75">Contact Us</h5>
           <p class="text-sm"><a href="tel:+918078741585">+91 80787 41585</a></p>
         </div>
-        <div class="mt-3">
+        <div class="mt-3 md:mt-0 md:ml-10">
           <h5 class="font-bold text-white/75">Follow Us</h5>
           <div class="flex mt-2">
             <a href="https://instagram.com/element_mcet">
@@ -32,5 +32,5 @@
         class="w-[12rem] opacity-80"
       />
     </div>
-  </div>
+  </footer>
 </template>
