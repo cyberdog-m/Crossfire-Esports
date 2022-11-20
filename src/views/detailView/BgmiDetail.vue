@@ -28,7 +28,7 @@
       <p>Winner: <span class="font-bold">₹1550</span></p>
       <div class="flex justify-center mt-10">
         <div
-          class="inline-flex items-center justify-center h-12 text-xl text-gray-200 bg-purple-800 rounded-md w-52"
+          class="inline-flex items-center justify-center h-12 text-xl text-gray-200 transition ease-in bg-purple-800 rounded-md w-52 hover:bg-purple-900"
         >
           Coming Soon
         </div>

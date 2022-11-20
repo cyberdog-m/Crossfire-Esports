@@ -23,7 +23,7 @@ const imageUrlParsed = computed(()=>{
 
 <template>
   <div @click="redirect"
-    class="duration mx-auto w-[18rem] rounded-xl bg-black/30 bg-clip-padding text-gray-300 transition ease-in hover:bg-opacity-40 hover:shadow-lg"
+    class="duration mx-auto w-[18rem] rounded-xl bg-black/30 bg-clip-padding text-gray-300 transition ease-in hover:bg-opacity-60 hover:shadow-lg"
   >
     <div class="m-2 h-[15rem] overflow-clip rounded-lg">
       <img
@@ -51,7 +51,7 @@ const imageUrlParsed = computed(()=>{
       <div class="flex justify-center">
         <a :href="props.gameDetail.route">
           <div
-            class="font-exo flex h-10 w-[10rem] items-center justify-center rounded-md bg-gray-800/50 text-center text-white"
+            class="font-exo flex h-10 w-[10rem] items-center justify-center rounded-md bg-gray-800/50 text-center text-white hover:bg-gray-800/70"
           >
             <span v-if="props.gameDetail.regFee">Register</span>
             <span v-else>Know More</span>
