@@ -1,6 +1,6 @@
 <template>
   <div class="max-w-5xl mx-auto">
-    <div class="h-[15rem] overflow-hidden">
+    <div class="h-[15rem] md:h-[22rem] overflow-hidden">
       <img
         src="../../assets/detail-view/fifapc.jpg "
         alt="game cover photo"
