@@ -4,7 +4,8 @@
       <div class="flex flex-col my-4 md:flex-row font-exo text-white/50">
         <div>
           <h5 class="font-bold text-white/75">Contact Us</h5>
-          <p class="text-sm"><a href="tel:+918078741585">+91 80787 41585</a></p>
+          <p class="text-sm"><a href="https://wa.me/918078741585">+91 80787 41585</a></p>
+          <p class="text-sm"><a href="https://wa.me/918113946710">+91 81139 46710</a></p>
         </div>
         <div class="mt-3 md:mt-0 md:ml-10">
           <h5 class="font-bold text-white/75">Follow Us</h5>

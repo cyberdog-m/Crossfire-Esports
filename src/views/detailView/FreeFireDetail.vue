@@ -28,7 +28,11 @@
       <p>Friday,<span class="font-bold"> 2 December </span>2022</p>
 
       <h2 class="mt-5 text-xl font-bold">Prize</h2>
-      <p>Winner: <span class="font-bold">₹999 </span></p>
+      <p>Winner: <span class="font-bold">₹1000 </span></p>
+      
+      <h2 class="mt-5 font-bold">Co Ordinator</h2>
+      <p>Anandhakumar<a href="https://wa.me/917736353975" class="font-bold"> +91 77363 53975 </a></p>
+
       <div class="flex justify-center mt-10">
         <a href="https://forms.gle/eJJGc8od9LUu8yoW7">
           <div

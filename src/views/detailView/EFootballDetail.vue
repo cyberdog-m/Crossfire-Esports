@@ -32,6 +32,10 @@
 
       <h2 class="mt-5 text-xl font-bold">Prize</h2>
       <p>Winner: <span class="font-bold">₹999</span></p>
+                        
+      <h2 class="mt-5 font-bold">Co Ordinator</h2>
+      <p>Shamnad<a href="https://wa.me/919562386309" class="font-bold"> +91 95623 86309 </a></p>
+
       <div class="flex justify-center mt-10">
         <a href="https://forms.gle/oxydX5voepGDfHVH9">
           <div
