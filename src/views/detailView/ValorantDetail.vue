@@ -25,7 +25,7 @@
       <p><span class="font-bold">₹250 </span>Per team</p>
 
       <h2 class="mt-5 text-lg font-bold">Tournament Start Date</h2>
-      <p>Tuesday,<span class="font-bold"> 22 November </span>2022</p>
+      <p>Sunday,<span class="font-bold"> 4 December </span>2022</p>
 
       <h2 class="mt-5 text-xl font-bold">Prize</h2>
       <p>Winner: <span class="font-bold">₹2000 </span></p>
