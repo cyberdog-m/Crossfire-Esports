@@ -36,11 +36,13 @@
       <p>Winner: <span class="font-bold">₹100</span></p>
       <p>Runner Up: <span class="font-bold">Surprise Gift</span></p>
       <div class="flex justify-center mt-10">
-        <div
-          class="inline-flex items-center justify-center h-12 text-xl text-gray-200 bg-purple-800 rounded-md w-52"
-        >
-          Coming Soon
-        </div>
+        <a href="https://forms.gle/pxfFUcPKAujVN1GP8">
+          <div
+            class="inline-flex items-center justify-center h-12 text-xl text-gray-200 bg-purple-800 rounded-md w-52"
+          >
+            Register Now
+          </div>
+        </a>
       </div>
     </div>
   </div>
