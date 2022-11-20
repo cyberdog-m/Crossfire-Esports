@@ -28,7 +28,8 @@
       <p>Sunday,<span class="font-bold"> 4 December </span>2022</p>
 
       <h2 class="mt-5 text-xl font-bold">Prize</h2>
-      <p>Winner: <span class="font-bold">₹2000 </span></p>
+      <!-- <p>Winner: <span class="font-bold">₹2000 </span></p> -->
+      <p>To be revealed soon></p>
                   
       <h2 class="mt-5 font-bold">Co Ordinator</h2>
       <p>Asif Hussain<a href="https://wa.me/918281205241" class="font-bold"> +91 82812 05241 </a></p>
