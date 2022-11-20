@@ -4,48 +4,48 @@ const games = [
   {
     id: 1,
     name: "Valorant",
-    regFee: "",
-    date: "",
+    regFee: "250",
+    date: "4 Dec 2022",
     imageUrl: "valorent.jpg",
     route: "/valorant",
   },
   {
     id: 2,
     name: "Fifa PC",
-    regFee: "",
-    date: "",
+    regFee: "20",
+    date: "22 Nov 2022",
     imageUrl: "fifa-pc.jpg",
     route: "/fifapc"
   },
   {
     id: 3,
     name: "E Football",
-    regFee: "",
-    date: "",
+    regFee: "50",
+    date: "27 Nov 2022",
     imageUrl: "e-football.jpg",
     route: "/efootball"
   },
   {
     id: 4,
     name: "BGMI",
-    regFee: "",
-    date: "",
+    regFee: "200",
+    date: "3 Dec 2022",
     imageUrl: "pubg.jpg",
     route: "/bgmi"
   },
   {
     id: 5,
     name: "Forza Horizon",
-    regFee: "",
-    date: "",
+    regFee: "20",
+    date: "28 Nov 2022",
     imageUrl: "forza.jpg",
     route: "/forza"
   },
   {
     id: 6,
     name: "Free Fire",
-    regFee: "",
-    date: "",
+    regFee: "100",
+    date: "2 Dec 2022",
     imageUrl: "free-fire.jpg",
     route: "/freefire"
   },
