@@ -5,7 +5,7 @@ const games = [
     id: 1,
     name: "Valorant",
     regFee: "250",
-    date: "4/12/2022",
+    date: "4 Dec 2022",
     imageUrl: "valorent.jpg",
     route: "/valorant",
   },
@@ -13,7 +13,7 @@ const games = [
     id: 2,
     name: "Fifa PC",
     regFee: "20",
-    date: "22/11/2022",
+    date: "22 Nov 2022",
     imageUrl: "fifa-pc.jpg",
     route: "/fifapc"
   },
@@ -21,7 +21,7 @@ const games = [
     id: 3,
     name: "E Football",
     regFee: "50",
-    date: "27/11/2022",
+    date: "27 Nov 2022",
     imageUrl: "e-football.jpg",
     route: "/efootball"
   },
@@ -29,7 +29,7 @@ const games = [
     id: 4,
     name: "BGMI",
     regFee: "200",
-    date: "3/12/2022",
+    date: "3 Dec 2022",
     imageUrl: "pubg.jpg",
     route: "/bgmi"
   },
@@ -37,7 +37,7 @@ const games = [
     id: 5,
     name: "Forza Horizon",
     regFee: "20",
-    date: "28/11/2022",
+    date: "28 Nov 2022",
     imageUrl: "forza.jpg",
     route: "/forza"
   },
@@ -45,7 +45,7 @@ const games = [
     id: 6,
     name: "Free Fire",
     regFee: "100",
-    date: "2/12/2022",
+    date: "2 Dec 2022",
     imageUrl: "free-fire.jpg",
     route: "/freefire"
   },
