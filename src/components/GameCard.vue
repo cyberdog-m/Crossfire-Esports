@@ -53,8 +53,7 @@ const imageUrlParsed = computed(()=>{
           <div
             class="font-exo flex h-10 w-[10rem] items-center justify-center rounded-md bg-gray-800/50 text-center text-white hover:bg-gray-800/70"
           >
-            <span v-if="props.gameDetail.regFee">Register</span>
-            <span v-else>Know More</span>
+            <span>Know More</span>
           </div>
         </a>
       </div>
