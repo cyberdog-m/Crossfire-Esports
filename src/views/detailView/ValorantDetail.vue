@@ -22,7 +22,7 @@
       </ul>
 
       <h2 class="mt-5 text-lg font-bold">Registration Fee</h2>
-      <p><span class="font-bold">₹250 </span>Per team</p>
+      <p><span class="font-bold">₹200 </span>Per team</p>
 
       <h2 class="mt-5 text-lg font-bold">Tournament Start Date</h2>
       <p>Sunday,<span class="font-bold"> 4 December </span>2022</p>

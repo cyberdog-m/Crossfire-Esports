@@ -4,7 +4,7 @@ const games = [
   {
     id: 1,
     name: "Valorant",
-    regFee: "250",
+    regFee: "200",
     date: "4 Dec 2022",
     imageUrl: "valorent.jpg",
     route: "/valorant",
@@ -28,7 +28,7 @@ const games = [
   {
     id: 4,
     name: "BGMI",
-    regFee: "200",
+    regFee: "100",
     date: "3 Dec 2022",
     imageUrl: "pubg.jpg",
     route: "/bgmi"
