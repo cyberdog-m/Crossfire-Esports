@@ -12,7 +12,7 @@ const games = [
   {
     id: 2,
     name: "Fifa PC",
-    regFee: "20",
+    regFee: "30",
     date: "22 Nov 2022",
     imageUrl: "fifa-pc.jpg",
     route: "/fifapc"
